@@ -1,6 +1,8 @@
 # Brian Alexander
 Phone: (505)660-5524    
-E-mail: [brianta1989@gmail.com](mailto:brianta1989@gmail.com)     
+E-mail: [brianta1989@gmail.com](mailto:brianta1989@gmail.com)    
+
+
 
 ## Objective
 
@@ -9,4 +11,4 @@ E-mail: [brianta1989@gmail.com](mailto:brianta1989@gmail.com)
 
 
 ## Education
-
+CNM Deepdive Coding Bootcamp Java/Android   
