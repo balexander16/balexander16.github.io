@@ -3,8 +3,7 @@
 I'm an aspiring Software Developer currently going through the Deep Dive Coding Java/Android Bootcamp from Albuquerque New Mexico. 
 I am a father to a wonderful daughter Noa, I enjoy playing sports, role-playing games and the drums in my free time.      
 
-More information about me and my work can be found at [Repository](https://github.com/balexander16) and [LinkedIn]
-(www.linkedin.com/in/brian-alexander-22849a183)
+More information about me and my work can be found at [Repository](https://github.com/balexander16) and [LinkedIn](http://www.linkedin.com/in/brian-alexander-22849a183)
 
 [R&eacute;sum&eacute;](resume.md)
 
