@@ -16,7 +16,7 @@ I hope to further develop and explore in my time in the bootcamp and beyond.
 
 
 ## Recent Projects 
-*
+* FizzBuzz App, Math can be fun or we can make it a drinking game!
 *
 
 
